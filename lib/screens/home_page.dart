@@ -85,7 +85,7 @@ class _HomePageState extends State<HomePage> {
                 ],
               )),
           appBar: AppBar(
-            title: const Text('Menu Drawer'),
+            title: const Text('Home Page'),
             backgroundColor: Colors.green,
             actions: [
               IconButton(

@@ -27,7 +27,7 @@ class _WelcomePageState extends State<WelcomePage> {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-      backgroundColor: Colors.white,
+      backgroundColor: Colors.greenAccent,
       body: Center(
         child: Text("Splash Screen")
       ),
